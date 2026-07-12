@@ -1,6 +1,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20I%20am%20Antoine%20Petit&textBg=false&animation=fadeIn&desc=IT%20Risk%20Consultant%20at%20EY)
 
+### 🍄 [Meet me in 60 seconds → my visual intro](https://amanite2012.github.io/intro.html)
+
 ## My CV
 
 * 👂 My name is Antoine
